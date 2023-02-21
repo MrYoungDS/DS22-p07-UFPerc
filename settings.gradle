@@ -1,2 +1,3 @@
 rootProject.name = 'DS22-p07-UFPerc'
+include 'src'
 
